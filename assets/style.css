@@ -103,7 +103,6 @@ header nav ul li a {
   display: flex;
   justify-content: flex-end;
   align-items: flex-end;
-  /* background-color: #f8f8fa; */
   object-fit: cover;
   background: url("../img/clouddeco.jpeg");
 
@@ -142,8 +141,6 @@ section {
 
 section h2 {
 
-  /* display: inline; */
-  /* justify-content:left; */
   align-items: flex-end;
   width: 15%;
   color: #c0c2ce;
@@ -208,7 +205,6 @@ p {
   background: url("../img/cloudss.jpeg");
   color: #c0c2ce;
   ;
-  /* background-color: #000; */
 }
 
 /* This will get text on top of image */
